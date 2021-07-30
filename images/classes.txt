@@ -1,0 +1,3 @@
+misgoods
+aruco
+caution

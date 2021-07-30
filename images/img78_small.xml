@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AllImgSmall</folder>
+	<filename>img78_small.jpg</filename>
+	<path>C:\Users\doobr\Documents\EGH445_Tensorflow\AllImgSmall\img78_small.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>misgoods</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>223</ymin>
+			<xmax>283</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>
